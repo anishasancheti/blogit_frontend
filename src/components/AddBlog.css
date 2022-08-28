@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+.box2{
+    margin-top: 40px;
+    width: 60%;
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: center;
+    font-family: 'Mitr', sans-serif;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    border: 2px solid black;
+    background-color: white;
+}
+.inp2{
+    padding: 5px;
+    width: 90%;
+    font-family: 'Mitr', sans-serif;
+}
+.btnbox2{
+    display: flex;
+    justify-content: center;
+}
+.btn2{
+    height: 30px;
+    width: 80px;
+    background-color: red;
+    font-size: 2vh;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.btn2:hover{
+    background-color: black;
+    color: white;
+}
+.log2{
+    font-size: 5vh;
+    font-weight: bolder;
+}
